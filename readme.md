@@ -12,6 +12,7 @@ I think this result can be improved by trying more values of smoothing parameter
 The code in **asgkmeans** package is an implementation of **Kmeans Algorithm** to cluster tweets by utilizing **Jaccard Distance** metric.
 ## project
 The code in **project** package is to solve the **Kaggle** competition: **[TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)**.
+**Note**: This is a group project, Jeffin is responsible for preprocessing the data and training the **XGBoost** model. The remaining models are trained by my teammates.
 
 
 
